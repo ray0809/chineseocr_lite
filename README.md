@@ -102,3 +102,8 @@ http://127.0.0.1:8080/ocr
 3. chineseocr  https://github.com/chineseocr/chineseocr      
 4. Psenet https://github.com/WenmuZhou/PSENet.pytorch  
 5. 语言模型实现 https://github.com/lukhy/masr
+
+
+maxOS编译pse.so报error
+ld: -stack_size option can only be used when linking a main executable
+参考：https://blog.csdn.net/qq8057656qq/article/details/86556162
